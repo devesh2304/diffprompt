@@ -1,0 +1,2 @@
+[console_scripts]
+diffprompt = diffprompt.cli:main

@@ -1,0 +1,11 @@
+setup.py
+diffprompt/__init__.py
+diffprompt/cli.py
+diffprompt/differ.py
+diffprompt/llm.py
+diffprompt.egg-info/PKG-INFO
+diffprompt.egg-info/SOURCES.txt
+diffprompt.egg-info/dependency_links.txt
+diffprompt.egg-info/entry_points.txt
+diffprompt.egg-info/requires.txt
+diffprompt.egg-info/top_level.txt
